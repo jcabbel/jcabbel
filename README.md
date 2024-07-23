@@ -1,16 +1,21 @@
-### Hi there 👋
+¡Hola! 👋 Soy Julio
+Desarrollador Web / Android
 
-<!--
-**jcabbel/jcabbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>Acerca de mí</b>
 
-Here are some ideas to get you started:
+👨‍💻 Soy un desarrollador web con especial foco en web dinámicas y responsivas y aplicaciones Android. Siempre estoy buscando nuevo conocimiento y otras formas de enfocar las situaciones para dar siempre una solución adecuada a las necesidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Actualmente, estoy profundizando mis conocimientos en NextJS.
+
+<b>Habilidades</b>
+
+    Frontend: HTML5, CSS3, JavaScript, React
+    Backend: Node.js, Next.js
+    Android: Java
+    Bases de Datos: MySQ
+    Herramientas: Git, GitHub, VSCode
+
+<b>Contacto</b>
+
+    Correo electrónico: j.cabellosbel@gmail.com
+    LinkedIn: /juliocabellos
