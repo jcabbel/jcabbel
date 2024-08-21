@@ -5,7 +5,7 @@ Desarrollador Web / Android
 
 👨‍💻 Soy un desarrollador web con especial foco en web dinámicas y responsivas y aplicaciones Android. Siempre estoy buscando nuevo conocimiento y otras formas de enfocar las situaciones para dar siempre una solución adecuada a las necesidades.
 
-🌱 Actualmente, estoy profundizando mis conocimientos en React y NextJS.
+🌱 Actualmente, estoy profundizando mis conocimientos en React Native.
 
 <b>Habilidades</b>
 
